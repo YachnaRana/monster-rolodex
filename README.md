@@ -1,3 +1,3 @@
-# [Monster Rolodex](https://yachnarana.github.io/monster-rolodex/)
+# [Monster Rolodex](https://yoyoyachu.github.io/monster-rolodex/)
 
 ### Created with React
